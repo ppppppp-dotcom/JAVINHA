@@ -1,0 +1,11 @@
+public class main{
+    public static void mostrarMensagem(){
+        System.out.println("Bem-vindo ao curso de Java!");
+    }
+    public static void main(String[] args){
+        mostrarMensagem();
+    }
+    
+}
+
+// ESSE CODIGO TEM A FUNÇÃO DE MOSTRAR A MENSAGEM "Bem-vindo ao curso de Java"
